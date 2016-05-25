@@ -1,0 +1,40 @@
+.column {
+  max-width: 20%;
+  float: left;
+  /*border: 4px blue solid;*/
+  margin:1%;
+  background-color: aqua;
+  border-radius: 10px;
+}
+
+
+
+img {
+  max-width: 80%;
+  margin: auto;
+  margin-top: 15px;
+  padding: 10%;
+  border-radius: 90px;
+}
+
+h3 {
+  text-align: center;
+  color: darkgreen;
+  font-size: 35px;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+}
+
+body {
+  background-color: teal;
+
+}
+
+p {
+  margin: 30px;
+  font-size: 20px;
+}
